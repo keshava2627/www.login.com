@@ -1,0 +1,11 @@
+.Success {
+  text-align: center;
+  padding-top: 300px;
+  color: blueviolet;
+}
+h1 {
+  font-size: 50px;
+  color: blue;
+  font-weight: 1500;
+  font-family: "Courier New", Courier, monospace;
+}
